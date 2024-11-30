@@ -1,0 +1,6 @@
+@BinaryBlogApi_HostAddress = http://localhost:5105
+
+GET {{BinaryBlogApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
